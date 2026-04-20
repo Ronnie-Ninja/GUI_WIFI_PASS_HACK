@@ -1,20 +1,17 @@
-# GUI_WIFI_PASS_HACK
+1. # GUI_WIFI_PASS_HACK
 
-Only Education Purpose
+2. Only Education Purpose
 
-Kali Linux
+3. Kali Linux
 
-GUI_WIFI_PASS_HACK
+4. GUI_WIFI_PASS_HACK
 
-git clone https://github.com/Ronnie-Ninja/GUI_WIFI_PASS_HACK/
+5. git clone https://github.com/Ronnie-Ninja/GUI_WIFI_PASS_HACK/
 
-cd GUI_WIFI_PASS_HACK/
+6. cd GUI_WIFI_PASS_HACK/
 
-sudo python app.py
+7. sudo python app.py
 
-BURPSUIT OPEN
+8. BURPSUIT OPEN
 
-FIREFOX OPEN http://YOUR_KALI_IP:5000
-
-
-9770762161
+9. FIREFOX OPEN http://YOUR_KALI_IP:5000
